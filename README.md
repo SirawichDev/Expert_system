@@ -1,4 +1,4 @@
 
 Document
 =========
-http://pyknow.readthedocs.io/en/
+http://pyknow.readthedocs.io/en/stable/introduction.html
